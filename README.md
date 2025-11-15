@@ -1,4 +1,4 @@
-# AgroFlow (Evaluación Conjunta – Microservicios + RabbitMQ + Kubernetes)
+# AgroFlow (Microservicios + RabbitMQ + Kubernetes)
 
 Arquitectura mínima funcional para cumplir la rúbrica:
 
